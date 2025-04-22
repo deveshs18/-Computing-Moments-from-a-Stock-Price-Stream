@@ -1,1 +1,2 @@
-datasketches
+apache-datasketches
+matplotlib
